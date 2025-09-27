@@ -1,43 +1,70 @@
-<h1>Hi I'm ademo 👊 </h1>
+<div align="center">
 
-### Ademo 
+# 👋 Salut, moi c’est **Ademo**
+**Étudiant en Bachelier en Sciences Informatiques** • Web dev front/back • Toujours curieux 🚀
 
-- 🧠 I am still a student 
+[![Discord](https://img.shields.io/badge/Rejoindre%20mon%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HQgfNzW)
+[![Follow](https://img.shields.io/github/followers/AdemoDEV?style=for-the-badge&logo=github)](https://github.com/AdemoDEV)
 
-<br/>
+</div>
 
-<details> 
-  <summary>📊 Github</summary>
+---
 
-  <br />
-  
-  [![AdemoDEV github stats](https://github-readme-stats.vercel.app/api?username=AdemoDEV&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🧭 À propos
+- 🎓 Actuellement en **Bachelier en Sciences Informatiques**  
+- 💡 Intéressé par les **interfaces modernes**, le **JavaScript/TypeScript**, et l’**éco-système React/Vue**  
+- 🛠️ J’aime les projets concrets, simples à utiliser, bien documentés
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemoDEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+---
+
+## 🧰 Stack & Outils
+
+### Langages & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### Outils
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Stats GitHub
+
+<details>
+  <summary><b>Voir mes stats</b></summary>
+  <br/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=AdemoDEV&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
+      alt="Statistiques GitHub d'AdemoDEV"
+    />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemoDEV&layout=compact&langs_count=8"
+      alt="Top languages"
+    />
+  </a>
+
 </details>
 
-### What I know about programming 
+---
 
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png alt="tools Visual Studio Code" width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png alt="languages HTML5"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png alt="languages CSS3"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png alt="languages JavaScript"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png alt="languages MySQL"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png alt="languages LUA"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png alt="Framework React"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png alt="languages Node.js"  width="26" /></a>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png alt="Framework Vue.js"  width="26" /></a>
+## 🤝 Me contacter
+- 💬 **Discord** : [Rejoindre le serveur](https://discord.gg/HQgfNzW)
 
-### Learning Language
-
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png alt="Framework Vue.js"  width="26" /></a>
-
-### FIVEM
-
-- ⚙️ I also do missions for people on Fivem
-<p>
-<a href=https://discord.gg/HQgfNzW target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg alt="AdemoShops" height="20" width="20" 
-</p>
-                                                       
-                                                 
+<!--
+Astuce rapide :
+- Tu peux ajouter `&theme=tokyonight` (ou `radical`, `dracula`, etc.) aux URLs des cartes GitHub pour un thème assorti.
+- Pense à "pin" 2–3 projets clés dans ton profil (Settings > Repositories > Pin).
+-->
