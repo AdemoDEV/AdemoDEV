@@ -59,9 +59,6 @@
 
 ---
 
-## 🤝 Me contacter
-- 💬 **Discord** : [Rejoindre le serveur](https://discord.gg/HQgfNzW)
-
 <!--
 Astuce rapide :
 - Tu peux ajouter `&theme=tokyonight` (ou `radical`, `dracula`, etc.) aux URLs des cartes GitHub pour un thème assorti.
