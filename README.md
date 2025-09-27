@@ -3,7 +3,6 @@
 # 👋 Salut, moi c’est **Ademo**
 **Étudiant en Bachelier en Sciences Informatiques** • Web dev front/back • Toujours curieux 🚀
 
-[![Discord](https://img.shields.io/badge/Rejoindre%20mon%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HQgfNzW)
 [![Follow](https://img.shields.io/github/followers/AdemoDEV?style=for-the-badge&logo=github)](https://github.com/AdemoDEV)
 
 </div>
