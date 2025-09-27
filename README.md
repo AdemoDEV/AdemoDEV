@@ -33,6 +33,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🚀 Projets récents
+
+| Projet                                 | Description                                                                                                                               | Stack                                      | Liens |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ----- |
+| **Monitoring Bot (scraper)**           | Bot de monitoring qui scrute des pages e-commerce (Amazon, Fnac, Micromania, etc.) avec contournement anti-bot, alertes et planification. | Node.js • Puppeteer • Proxies résidentiels | Privé |
+| **Sites d’entreprise (multi-projets)** | Front-ends React connectés à des APIs (dashboards, formulaires, authentification, rôles).                                                 | React • TypeScript • API REST              | Privé |
+| **Project V — UI NUI**                 | Interface NUI complète pour un serveur de jeu : HUD, menus, inventaire, notifications en temps réel.                                      | React • Vite • NUI • WebSocket             | Privé |
+
+---
+
 ---
 
 ## 📊 Stats GitHub
