@@ -30,9 +30,9 @@
 ![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
 
 ### En apprentissage
-![C++](https://img.shields.io/badge/c++-007ACC?style=for-the-badge&logo=c++&logoColor=white)
-![C](https://img.shields.io/badge/c-007ACC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-007ACC?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 
 ### Outils
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
