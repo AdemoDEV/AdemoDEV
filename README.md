@@ -31,8 +31,8 @@
 
 ### En apprentissage
 ![C++](https://img.shields.io/badge/c++-007ACC?style=for-the-badge&logo=c++&logoColor=white)
-![C](https://img.shields.io/badge/c++-007ACC?style=for-the-badge&logo=c++&logoColor=white)
-![Java](https://img.shields.io/badge/c++-007ACC?style=for-the-badge&logo=c++&logoColor=white)
+![C](https://img.shields.io/badge/c-007ACC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-007ACC?style=for-the-badge&logo=java&logoColor=white)
 
 ### Outils
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
