@@ -1,80 +1,107 @@
 <div align="center">
 
-# 👋 Salut, moi c’est **Ademo**
-**Étudiant en Bachelier en Sciences Informatiques** • Web dev front/back • Toujours curieux 🚀
+👋 Bonjour, je suis Ademo
 
-[![Follow](https://img.shields.io/github/followers/AdemoDEV?style=for-the-badge&logo=github)](https://github.com/AdemoDEV)
+🎓 Étudiant en Bachelier en Sciences Informatiques à l’ULB
+
+Passionné par l’informatique, l’algorithmique et l’aéronautique.
 
 </div>
 
----
+⸻
 
-## 🧭 À propos
-- 🎓 Actuellement en **Bachelier en Sciences Informatiques**  
-- 💡 Intéressé par les **interfaces modernes**, le **JavaScript/TypeScript**, et l’**éco-système React/Vue**  
-- 🛠️ J’aime les projets concrets, simples à utiliser, bien documentés
+🎓 À propos
 
----
+Je suis étudiant en Bachelier en Sciences Informatiques à l’Université Libre de Bruxelles (ULB).
 
-## 🧰 Stack & Outils
+Ma formation me permet d’acquérir de solides bases en informatique fondamentale, notamment en algorithmique, structures de données, architecture des ordinateurs, programmation, systèmes d’exploitation et mathématiques appliquées à l’informatique.
 
-### Langages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
+En parallèle de mes études, je développe différents projets personnels dans le domaine du développement logiciel et du développement web, ce qui me permet d’approfondir mes connaissances et de mettre en pratique les concepts étudiés à l’université.
 
-### Outils
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Je m’intéresse particulièrement à la résolution de problèmes, à la conception logicielle, au fonctionnement interne des systèmes informatiques ainsi qu’au domaine de l’aéronautique.
 
-## 🚀 Projets récents
+⸻
 
-| Projet                                 | Description                                                                                                                               | Stack                                      | Liens |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ----- |
-| **Monitoring Bot (scraper)**           | Bot de monitoring qui scrute des pages e-commerce (Amazon, Fnac, Micromania, etc.) avec contournement anti-bot, alertes et planification. | Node.js • Puppeteer • Proxies résidentiels | Privé |
-| **Sites d’entreprise (multi-projets)** | Front-ends React connectés à des APIs (dashboards, formulaires, authentification, rôles).                                                 | React • TypeScript • API REST              | Privé |
-| **Project V — UI NUI**                 | Interface NUI complète pour un serveur de jeu : HUD, menus, inventaire, notifications en temps réel.                                      | React • Vite • NUI • WebSocket             | Privé |
+🧰 Technologies
 
----
+Langages
 
----
+Développement Web (Projets personnels)
 
-## 📊 Stats GitHub
+Outils
+
+⸻
+
+📚 Formation & Compétences
+
+Algorithmique & Structures de données
+
+* Récursivité
+* Backtracking
+* Tri rapide (Quick Sort)
+* Tri fusion (Merge Sort)
+* Tas (Heap)
+* Arbres binaires de recherche (ABR)
+* Graphes (DFS, BFS)
+* Tables de hachage
+* Programmation dynamique
+* Analyse de complexité algorithmique (Big O)
+
+Architecture des ordinateurs
+
+* Représentation binaire de l’information
+* Systèmes de numération (binaire, décimal, hexadécimal)
+* Algèbre booléenne et portes logiques
+* Architecture de Von Neumann
+* Fonctionnement du processeur (CPU)
+* Registres et mémoire
+* Cycle Fetch → Decode → Execute
+* Bases de l’assembleur
+
+Systèmes & Réseaux
+
+* Processus et threads
+* Gestion de la mémoire
+* Concepts fondamentaux des systèmes d’exploitation
+* Modèle client-serveur
+* HTTP / HTTPS
+* APIs REST
+* Bases des réseaux TCP/IP
+
+⸻
+
+🚀 Projets
+
+Projet	Description
+Monitoring Bot	Système de surveillance automatisé permettant le suivi de produits sur plusieurs plateformes avec alertes et planification.
+Applications Web	Développement d’interfaces modernes connectées à des APIs avec authentification et gestion des rôles.
+Project V — Interface NUI	Conception et développement d’interfaces temps réel avec React, Vite et WebSocket.
+
+⸻
+
+🎯 Centres d’intérêt
+
+* ✈️ Aéronautique
+* 💻 Génie logiciel
+* 🧠 Algorithmique
+* ⚙️ Architecture des ordinateurs
+* 🌐 Développement Web
+* 🔒 Cybersécurité
+* 🤖 Intelligence artificielle
+
+⸻
+
+📊 Statistiques GitHub
 
 <details>
-  <summary><b>Voir mes stats</b></summary>
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=AdemoDEV&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"
-      alt="Statistiques GitHub d'AdemoDEV"
-    />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemoDEV&layout=compact&langs_count=8"
-      alt="Top languages"
-    />
-  </a>
-
+<summary><b>Afficher les statistiques GitHub</b></summary>
+<br>
 </details>
 
----
+⸻
 
-<!--
-Astuce rapide :
-- Tu peux ajouter `&theme=tokyonight` (ou `radical`, `dracula`, etc.) aux URLs des cartes GitHub pour un thème assorti.
-- Pense à "pin" 2–3 projets clés dans ton profil (Settings > Repositories > Pin).
--->
+📫 Contact
+
+N’hésitez pas à consulter mes projets et à me contacter pour échanger autour de l’informatique, du développement logiciel ou des nouvelles technologies.
+
+« Computer Science is no more about computers than astronomy is about telescopes. » — Edsger W. Dijkstra
