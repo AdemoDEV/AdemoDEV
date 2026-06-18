@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est **Ademo**
 
-### 🎓 Étudiant en Bachelier en Sciences Informatiques à l'ULB
+### 🎓 Étudiant en Bachelier en Sciences Informatiques à l'université
 
 💻 Développement logiciel • 🌐 Développement Web • ✈️ Aéronautique
 
@@ -12,7 +12,7 @@
 
 ## 🚀 À propos
 
-Étudiant en **Sciences Informatiques à l'Université Libre de Bruxelles (ULB)**, je développe des projets personnels en parallèle de mes études afin d'approfondir mes connaissances en développement logiciel et web.
+Étudiant en **Sciences Informatiques à l'Université**, je développe des projets personnels en parallèle de mes études afin d'approfondir mes connaissances en développement logiciel et web.
 
 J'aime concevoir des applications modernes, résoudre des problèmes techniques et explorer de nouvelles technologies.
 
