@@ -94,9 +94,6 @@ Je m'intéresse particulièrement à :
 * Processus et threads
 * Gestion de la mémoire
 * Systèmes d'exploitation
-* HTTP / HTTPS
-* APIs REST
-* TCP/IP
 * Modèle client-serveur
 
 ---
