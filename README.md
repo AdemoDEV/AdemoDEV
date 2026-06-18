@@ -4,11 +4,7 @@
 
 ### 🎓 Étudiant en Bachelier en Sciences Informatiques à l'ULB
 
-💻 Développement logiciel • 🧠 Algorithmique • ✈️ Aéronautique
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AdemoDEV\&style=for-the-badge)
+💻 Développement logiciel • 🌐 Développement Web • ✈️ Aéronautique
 
 </div>
 
@@ -16,17 +12,11 @@
 
 ## 🚀 À propos
 
-Étudiant en **Sciences Informatiques à l'Université Libre de Bruxelles (ULB)**, je développe de solides bases en informatique théorique et appliquée à travers mon cursus universitaire.
+Étudiant en **Sciences Informatiques à l'Université Libre de Bruxelles (ULB)**, je développe des projets personnels en parallèle de mes études afin d'approfondir mes connaissances en développement logiciel et web.
 
-En parallèle, je réalise des projets personnels dans le domaine du développement logiciel et du développement web afin d'explorer de nouvelles technologies et de mettre en pratique les concepts étudiés.
+J'aime concevoir des applications modernes, résoudre des problèmes techniques et explorer de nouvelles technologies.
 
-Je m'intéresse particulièrement à :
-
-* 🧠 L'algorithmique et les structures de données
-* ⚙️ L'architecture des ordinateurs
-* 💻 Le développement logiciel
-* 🌐 Les technologies web modernes
-* ✈️ L'aéronautique
+Mes principaux centres d'intérêt sont le développement logiciel, les technologies web, l'informatique en général et l'aéronautique.
 
 ---
 
@@ -50,7 +40,7 @@ Je m'intéresse particulièrement à :
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-### Bases de données
+### Base de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
@@ -62,59 +52,17 @@ Je m'intéresse particulièrement à :
 
 ---
 
-## 📚 Formation & Compétences
-
-### Algorithmique & Structures de données
-
-* Récursivité
-* Backtracking
-* Quick Sort
-* Merge Sort
-* Heaps
-* Arbres binaires de recherche (ABR)
-* Graphes (DFS / BFS)
-* Tables de hachage
-* Programmation dynamique
-* Analyse de complexité
-
-### Architecture des ordinateurs
-
-* Représentation binaire de l'information
-* Systèmes binaire et hexadécimal
-* Logique booléenne
-* Portes logiques
-* Architecture de Von Neumann
-* Fonctionnement du processeur
-* Registres et mémoire
-* Cycle Fetch → Decode → Execute
-* Bases de l'assembleur
-
-### Systèmes & Réseaux
-
-* Processus et threads
-* Gestion de la mémoire
-* Systèmes d'exploitation
-* Modèle client-serveur
-
----
-
 ## 🚀 Projets
 
-| Projet               | Description                                                                                        |
-| -------------------- | -------------------------------------------------------------------------------------------------- |
-| **Monitoring Bot**   | Bot de monitoring e-commerce avec alertes, planification et automatisation.                        |
-| **Applications Web** | Développement d'interfaces React connectées à des APIs avec authentification et gestion des rôles. |
-| **Project V — NUI**  | Interface temps réel utilisant React, Vite et WebSocket pour un environnement de jeu.              |
+| Projet               | Description                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| **Monitoring Bot**   | Bot de monitoring e-commerce avec alertes, automatisation et planification.        |
+| **Applications Web** | Interfaces React connectées à des APIs avec authentification et gestion des rôles. |
+| **Project V — NUI**  | Interface temps réel développée avec React, Vite et WebSocket.                     |
 
 ---
 
-## 🎯 Centres d'intérêt
-
-✈️ Aéronautique • 💻 Génie logiciel • 🧠 Algorithmique • ⚙️ Architecture des ordinateurs • 🔒 Cybersécurité • 🤖 Intelligence Artificielle
-
----
-
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -128,8 +76,6 @@ Je m'intéresse particulièrement à :
 
 <div align="center">
 
-*"Computer Science is no more about computers than astronomy is about telescopes."*
-
-— Edsger W. Dijkstra
+💡 Toujours curieux d'apprendre et de construire de nouveaux projets.
 
 </div>
