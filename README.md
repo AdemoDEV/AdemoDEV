@@ -1,107 +1,138 @@
 <div align="center">
 
-👋 Bonjour, je suis Ademo
+# 👋 Salut, moi c'est **Ademo**
 
-🎓 Étudiant en Bachelier en Sciences Informatiques à l’ULB
+### 🎓 Étudiant en Bachelier en Sciences Informatiques à l'ULB
 
-Passionné par l’informatique, l’algorithmique et l’aéronautique.
+💻 Développement logiciel • 🧠 Algorithmique • ✈️ Aéronautique
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdemoDEV\&style=for-the-badge)
 
 </div>
 
-⸻
+---
 
-🎓 À propos
+## 🚀 À propos
 
-Je suis étudiant en Bachelier en Sciences Informatiques à l’Université Libre de Bruxelles (ULB).
+Étudiant en **Sciences Informatiques à l'Université Libre de Bruxelles (ULB)**, je développe de solides bases en informatique théorique et appliquée à travers mon cursus universitaire.
 
-Ma formation me permet d’acquérir de solides bases en informatique fondamentale, notamment en algorithmique, structures de données, architecture des ordinateurs, programmation, systèmes d’exploitation et mathématiques appliquées à l’informatique.
+En parallèle, je réalise des projets personnels dans le domaine du développement logiciel et du développement web afin d'explorer de nouvelles technologies et de mettre en pratique les concepts étudiés.
 
-En parallèle de mes études, je développe différents projets personnels dans le domaine du développement logiciel et du développement web, ce qui me permet d’approfondir mes connaissances et de mettre en pratique les concepts étudiés à l’université.
+Je m'intéresse particulièrement à :
 
-Je m’intéresse particulièrement à la résolution de problèmes, à la conception logicielle, au fonctionnement interne des systèmes informatiques ainsi qu’au domaine de l’aéronautique.
+* 🧠 L'algorithmique et les structures de données
+* ⚙️ L'architecture des ordinateurs
+* 💻 Le développement logiciel
+* 🌐 Les technologies web modernes
+* ✈️ L'aéronautique
 
-⸻
+---
 
-🧰 Technologies
+## 🛠️ Technologies
 
-Langages
+### Langages
 
-Développement Web (Projets personnels)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-444444?style=for-the-badge)
 
-Outils
+### Développement Web
 
-⸻
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-📚 Formation & Compétences
+### Bases de données
 
-Algorithmique & Structures de données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Outils
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 📚 Formation & Compétences
+
+### Algorithmique & Structures de données
 
 * Récursivité
 * Backtracking
-* Tri rapide (Quick Sort)
-* Tri fusion (Merge Sort)
-* Tas (Heap)
+* Quick Sort
+* Merge Sort
+* Heaps
 * Arbres binaires de recherche (ABR)
-* Graphes (DFS, BFS)
+* Graphes (DFS / BFS)
 * Tables de hachage
 * Programmation dynamique
-* Analyse de complexité algorithmique (Big O)
+* Analyse de complexité
 
-Architecture des ordinateurs
+### Architecture des ordinateurs
 
-* Représentation binaire de l’information
-* Systèmes de numération (binaire, décimal, hexadécimal)
-* Algèbre booléenne et portes logiques
+* Représentation binaire de l'information
+* Systèmes binaire et hexadécimal
+* Logique booléenne
+* Portes logiques
 * Architecture de Von Neumann
-* Fonctionnement du processeur (CPU)
+* Fonctionnement du processeur
 * Registres et mémoire
 * Cycle Fetch → Decode → Execute
-* Bases de l’assembleur
+* Bases de l'assembleur
 
-Systèmes & Réseaux
+### Systèmes & Réseaux
 
 * Processus et threads
 * Gestion de la mémoire
-* Concepts fondamentaux des systèmes d’exploitation
-* Modèle client-serveur
+* Systèmes d'exploitation
 * HTTP / HTTPS
 * APIs REST
-* Bases des réseaux TCP/IP
+* TCP/IP
+* Modèle client-serveur
 
-⸻
+---
 
-🚀 Projets
+## 🚀 Projets
 
-Projet	Description
-Monitoring Bot	Système de surveillance automatisé permettant le suivi de produits sur plusieurs plateformes avec alertes et planification.
-Applications Web	Développement d’interfaces modernes connectées à des APIs avec authentification et gestion des rôles.
-Project V — Interface NUI	Conception et développement d’interfaces temps réel avec React, Vite et WebSocket.
+| Projet               | Description                                                                                        |
+| -------------------- | -------------------------------------------------------------------------------------------------- |
+| **Monitoring Bot**   | Bot de monitoring e-commerce avec alertes, planification et automatisation.                        |
+| **Applications Web** | Développement d'interfaces React connectées à des APIs avec authentification et gestion des rôles. |
+| **Project V — NUI**  | Interface temps réel utilisant React, Vite et WebSocket pour un environnement de jeu.              |
 
-⸻
+---
 
-🎯 Centres d’intérêt
+## 🎯 Centres d'intérêt
 
-* ✈️ Aéronautique
-* 💻 Génie logiciel
-* 🧠 Algorithmique
-* ⚙️ Architecture des ordinateurs
-* 🌐 Développement Web
-* 🔒 Cybersécurité
-* 🤖 Intelligence artificielle
+✈️ Aéronautique • 💻 Génie logiciel • 🧠 Algorithmique • ⚙️ Architecture des ordinateurs • 🔒 Cybersécurité • 🤖 Intelligence Artificielle
 
-⸻
+---
 
-📊 Statistiques GitHub
+## 📊 Statistiques GitHub
 
-<details>
-<summary><b>Afficher les statistiques GitHub</b></summary>
-<br>
-</details>
+<div align="center">
 
-⸻
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdemoDEV&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-📫 Contact
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemoDEV&layout=compact"/>
 
-N’hésitez pas à consulter mes projets et à me contacter pour échanger autour de l’informatique, du développement logiciel ou des nouvelles technologies.
+</div>
 
-« Computer Science is no more about computers than astronomy is about telescopes. » — Edsger W. Dijkstra
+---
+
+<div align="center">
+
+*"Computer Science is no more about computers than astronomy is about telescopes."*
+
+— Edsger W. Dijkstra
+
+</div>
