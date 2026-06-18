@@ -18,6 +18,14 @@ J'aime concevoir des applications modernes, résoudre des problèmes techniques 
 
 Mes principaux centres d'intérêt sont le développement logiciel, les technologies web, l'informatique en général et l'aéronautique.
 
+Je m'intéresse particulièrement à :
+
+🧠 L'algorithmique et les structures de données
+⚙️ L'architecture des ordinateurs
+💻 Le développement logiciel
+🌐 Les technologies web modernes
+✈️ L'aéronautique
+
 ---
 
 ## 🛠️ Technologies
